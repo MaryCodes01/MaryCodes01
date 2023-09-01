@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 Skills [Detail-oriented professional, resourceful problem solver who approaches challenges with tenacity and a growth mindset. Committed to finding viable solutions and continuously expanding my knowledge to overcome any obstacles.](Detail-oriented professional, resourceful problem solver who approaches challenges with tenacity and a growth mindset. Committed to finding viable solutions and continuously expanding my knowledge to overcome any obstacles.)
+- 👨‍💻 Skills
+- Detail-oriented professional, resourceful problem solver who approaches challenges with tenacity and a growth mindset. Committed to finding viable solutions and continuously expanding my knowledge to overcome any obstacles.
 
-- 💬 BIO **Embarking on a new journey, further developing my skills as a versatile and collaborative professional. I have a strong passion for learning and am eagerly seeking opportunities to expand my skillset.**
+- 💬 BIO
+- **Embarking on a new journey, further developing my skills as a versatile and collaborative professional. I have a strong passion for learning and am eagerly seeking opportunities to expand my skillset.**
 
 - 📫 How to reach me **marycodes01@gmail.com**
 
