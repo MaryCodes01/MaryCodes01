@@ -7,12 +7,12 @@
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## I am an aspiring Full Stack Engineer, thriving on pushing boundaries to make dreams into reality. Excited for the near future in hopes of making meaningful connections with like-minded individuals.
+## I am an aspiring Software Engineer, thriving on pushing boundaries to make dreams into reality. Excited for the near future in hopes of making meaningful connections with like-minded individuals.
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 What I am doing:
 
-- 🔭 Currently working on **learning Full Stack Development**
+- 🔭 Currently working on **learning Front-end Development**
 
 - 🌱 Learning **JavaScript**
 
@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/marisol-moreno-a2740a28b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marycodes01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marycodes01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marycodes01" height="30" width="40" /></a>
 </p>
 
 
