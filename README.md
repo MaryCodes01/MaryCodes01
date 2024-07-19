@@ -39,7 +39,7 @@
 <div>
     <h4>📫 Reach me at:</h4>
 
-    <a href="mailto:marycodes01@gmail.com" style="text-decoration: none; color: black; pointer-events: visibleFill;">marycodes01@gmail.com</a>
+    marycodes01@gmail.com
 </div>
 
 <h3 align="left">Connect with me:</h3>
